@@ -1,8 +1,8 @@
 # FiveM-Account-Bugger
 Used to automatically make Magic FiveM accounts but unfortuanely fixed  <br />
-Has Shell connect bypass main.py[48] you can steal and add to your shitty C# server launcher if you want
+Has Shell connect bypass main.py[48] you can steal and add to your shitty C# server launcher if you want<br />
 
-Used By:
+Used By:<br />
 discord.gg/SkShop,<br />
 discord.gg/flexingstore,<br />
 discord.gg/safemarket,<br />
