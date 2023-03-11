@@ -1,5 +1,5 @@
 # FiveM-Account-Bugger
-Used to automatically bug FiveM accounts but unfortuanely fixed  <br />
+Used to automatically make Magic FiveM accounts but unfortuanely fixed  <br />
 Has Shell connect bypass main.py[48] you can steal and add to your shitty C# server launcher if you want
 
 1 - Change Webhook From Config  <br />
