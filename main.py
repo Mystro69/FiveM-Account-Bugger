@@ -49,9 +49,9 @@ def listen(window):
     window2 = win32gui.GetWindowText(window) == "FiveM® by Cfx.re"
     while window2:
         time.sleep(1)
-        os.startfile("fivem://connect/"+config["server"])
+        os.startfile("fivem://connect/"+config["server"]) #You can use "fivem://connect/" protocol if fivem is running you can steal and add to your shitty C# server launcher it if you want
         window2 = win32gui.GetWindowText(window) == "FiveM® by Cfx.re"
-    subprocess.Popen("TASKKILL /F /IM FiveM.exe") 
+    subprocess.Popen("TASKKILL /F /IM FiveM.exe") #Title Changes when you succesfully passed the connecting page (Prevents Waiting game to load all props and server files)
 
 def mainThread(currentAccount):
     for dirpath, dirnames, filenames in os.walk(appdata + "\\DigitalEntitlements"):
